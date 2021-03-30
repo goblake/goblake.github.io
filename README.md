@@ -1,60 +1,35 @@
-# Cookie - a fast and easy to deploy landing website for your next project.
-Cookie is a Jekyll and Tailwind CSS based static website that makes the whole process of creating and launching landing websites extremely easy. With its responsive and mobile friendly pages, integrated blog, additional pages and [Soopr](https://www.soopr.co) integration, you can focus on building your product than landing website.
+# Gradfolio
+
+responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio. [Here's a live demo](https://jitinnair1.github.io/gradfolio/)
+
+![Gradfolio Template Homepage](https://user-images.githubusercontent.com/2485715/110634179-acaa7e00-81cf-11eb-8846-062ecf961d1e.png)
 
 ## Features
-* Well-designed landing page
-* Responsive and mobile friendly
-* Additional pages like about us, terms of service & privacy policy
-* Integrated blog, write content in markdown format
-* Easy to customize using Tailwind CSS
-* Fast and performant website
-* SEO optimized (uses [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag))
-* RSS feed (uses [Jekyll Feed](https://github.com/jekyll/jekyll-feed))
-* Easy to deploy, one-click deploy on [Netlify](https://www.netlify.com) possible
-* [Soopr](https://wwww.soopr.co) integrated - easy to customize share & like buttons, URL shortning and website analytics
-
-
-## Demo
-[![Netlify Status](https://api.netlify.com/api/v1/badges/58bd7992-1cc1-4fb9-b684-6be577a06324/deploy-status)](https://app.netlify.com/sites/cookie-demo/deploys)
-<br />
-You can see demo app deployed [here](https://cookie-demo.netlify.app/)
-
-## Why Jekyll?
-Jekyll is a static website generator - what it means is that in production, your site will be faster because it has been converted into HTML pages while deployment. Another reason is that by separating your landing website from your app website, your app servers get comparatively free and can boost performance for your regular customers. 
-
-Cookie uses Tailwind 2.0 which is a good improvement over Tailwind 1.0.
+- Responsive
+- Respects Dark Mode preference set by user
+- Projects Page to showcase your work/side projects
+- Easily link to your profiles on ResearchGate and ORCID
 
 ## Installation
-1. Fork this repository.
-2. `cd cookie`
-3. `bin/bootstrap`
+* Click on `Use this template`
+* Your new site should be ready at https://username.github.io/gradfolio/
+* You can now modify the contents and personalise the template
 
-## Starting Server
-`bin/start` - development server will start at http://127.0.0.1:4061
+Alternatively, you can [download the source files](https://github.com/jitinnair1/gradfolio/archive/master.zip) and make changes locally. 
 
-## Customizing
-1. You can customize landing page by modifying index.html in root directory.
-2. You can customize other website pages by modifying files present in `_pages` directory. You can add more pages too - you will be able to directly link to them using filename. Don't forget to change Terms & Privacy Policy.
-3. You can write blog posts in `_posts` directory. It's a regular Jekyll blog, and Tailwind Typography for better blog formating and code syntax highlighting is already included.
-4. You should also checkout `_config.yml` in root directory, and add relevant details. Many of them are used for SEO purposes.
-5. You should also add favicons in `custom-head.html` present in `_includes` directory. You can use [RealFaviconGenerator](https://realfavicongenerator.net/).
-6. You can customize image assets in `assets/img` directory.
-7. You will have to hook the 'Work with Us' form present on main page with a real backend.
-8. [Font Awesome](https://fontawesome.com/) is also integrated, to add any icon in your HTML files, you can refer to the website
+To test these changes, open a terminal inside the source folder and use `jekyll serve --incremental --trace` to make it available on a local server (typically http://localhost:4000/)
 
-## Deploy Instructions
-Website can be easily deployed on all the cloud providers (AWS etc.), and on static website hosting services like Netlify & Vercel. You can also use this button to do one click deploy
-<br />
-<br />
-[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/abhinavs/cookie)
+The `--incremental` flag ensures that any changes you make are reflected in your browser in real time and the `--trace` option might be useful for debugging if things break while you are changing the source files.
 
+Once you have personalised and tested the site, you can create a new repo, upload these files and host your website from the repo.
 
-## Contributing
-Bug reports and pull requests are welcome on GitHub at https://github.com/abhinavs/cookie.
-
-## Acknowledgement
-Cookie uses landing page provided by [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation) - thanks for providing an amazing landing page under MIT License. Initial code was also inspired by [Jekyll TailwindUI](https://github.com/chunlea/jekyll-tailwindui)
+## Based on
+- [hagura](https://github.com/sharu725/hagura)
+- [al-folio](https://github.com/alshedivat/al-folio)
+- [noir](https://github.com/essentialenemy/noir)
+- [jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)
 
 ## License
-This project is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+MIT License
 
+[![JekyllThemes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com)
