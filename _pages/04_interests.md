@@ -2,7 +2,7 @@
 layout: archive
 permalink: /interests/
 title: "INTERESTS"
-author_profile: true
+author_profile: false
 header:
   image: /assets/images/unsplash-image-4.jpg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
