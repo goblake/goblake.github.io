@@ -3,6 +3,9 @@ layout: archive
 permalink: /about/
 title: "ABOUT"
 author_profile: false
+header:
+  image: /assets/images/unsplash-image-3.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
 I have been studying for a Master's degree in **the Graduate School of Convergence Science and Technology** [(GSCST)](http://convergence.snu.ac.kr/main/) from **Seoul National University** [(SNU)](http://snu.ac.kr/index.html). My research interests lie in Voice User Interface(VUI) and voice interaction design. Currently, I am focusing on user experience with interactive contents on smart speakers. 
