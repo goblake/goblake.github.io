@@ -82,10 +82,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "고병휘"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Seoul, South Korea"
+  email            : "bhko91@gmail.com"
   links:
     - label: "Your Website"
       icon: "fas fa-fw fa-link"
