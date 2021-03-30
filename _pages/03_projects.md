@@ -3,6 +3,9 @@ layout: archive
 permalink: /projects/
 title: "PROJECTS"
 author_profile: false
+header:
+  image: /assets/images/unsplash-image-2.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 <html>
 	<head>
