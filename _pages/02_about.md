@@ -390,6 +390,16 @@ I have studied for a Master's degree in **the Graduate School of Convergence Sci
             <h1>AWARDS and HONORS</h1>
         <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
             <ul class="timeline">
+            	<li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>2020</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Graduation Outstanding Thesis Award</h3>
+                        <p>졸업 우수 논문상</p>
+                    </div>
+                </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
                         <span>2012 ~ 2017</span>
