@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" #"default", "air", "aqua", "contrast", "dar
 locale                   : "en-US"
 title                    : "UX/HCI Researcher"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "고병휘" # site tagline that appears below site title in masthead
 name                     : "고병휘"
-description              : "An amazing website."
+description              : "안녕하세요 고병휘입니다🙌."
 url                      : "https://goblake.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "고병휘"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "질문을 던지고 해답을 찾기위해 분주히 노력하는 사람"
   location         : "Seoul, South Korea"
   email            : "bhko91@gmail.com"
   links:
