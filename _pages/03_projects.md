@@ -321,6 +321,17 @@ header:
             <ul class="timeline">
                 <li class="timeline-item">
                     <div class="timeline-info">
+                        <span>August 2020</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">A Study on Managing No-response situations in Content driven Voice User Interface</h3>
+                        <p><b>Byunghi Ko</b></p>
+                        <p><i>Master's Degree Thesis, Seoul National University</i></p>
+                    </div>
+                </li>
+                <li class="timeline-item">
+                    <div class="timeline-info">
                         <span>February 2020</span>
                     </div>
                     <div class="timeline-marker"></div>
