@@ -266,118 +266,120 @@ I have studied for a Master's degree in **the Graduate School of Convergence Sci
     <p>I am studying for a Master's degree in the Graduate School of Convergence Science and Technology <a href="http://convergence.snu.ac.kr/main/" target="_blank">(GSCST)</a> from Seoul National University <a href="http://snu.ac.kr/index.html" target="_blank">(SNU)</a>, studying under Joongseek Lee. </p>
 </header> -->
 <div class="col">
-<div class="container-fluid">
-    <div class="row example-basic">
-    	<h1> EDUCATION </h1>
-        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
-            <ul class="timeline">
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>March 2018 ~</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Seoul National University, GSCST, User Experience Lab</h3>
-                        <p>서울대학교 융합과학기술대학원 디지털정보융합전공 사용자경험연구실</p>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>March 2012 ~ Februrary 2018</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Hanyang University, College of Engineering, Information Systems Major</h3>
-                        <p>한양대학교 공과대학 정보시스템학과</p>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>August 2016 ~ Februrary 2017</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">University of Applied Sciences Darmstadt, Informatics</h3>
-                        <p>한-EU ICI ECP(교육협력사업) 교환학생 장학 프로그램</p>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>March 2007 ~ Februrary 2010</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Daejeon Foreign Language High School, English Major</h3>
-                        <p>대전외국어고등학교 영어과</p>
-                    </div>
-                </li>
-            </ul>
-        </div>
-        <div class="row example-basic">
-            <h1>WORK EXPERIENCE</h1>
-        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
-            <ul class="timeline">
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>March 2019 ~ July 2019</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Graduate Research Assistant</h3>
-                        <p>Seoul National University, College of Liberal Studies, Creative Fusion Project
-                        <br>서울대학교 자유전공학부 창의융합프로젝트</p>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>June 2016 ~ September 2016</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Internship</h3>
-                        <p>Seoul City Hall Information Protection Team
-                        	<br>서울시청 정보통신보안담당관 정보보안팀</p>
-                    </div>
-                </li>
-            </ul>
-        </div>
-    	</div>
-            <h1>AWARDS and HONORS</h1>
-        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
-            <ul class="timeline">
-            	<li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>2020</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Graduation Outstanding Thesis Award</h3>
-                        <p>졸업 우수 논문상</p>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>2012 ~ 2017</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Hanyang Science and Technology Scholarship</h3>
-                        <p>한양 과학 기술 장학금</p>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>2016</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">EU ICI ECP Scholarship</h3>
-                    </div>
-                </li>
-            </ul>
-        </div>   	
-    </div>
- </div>
+	<div class="container-fluid">
+	    <div class="row example-basic">
+	    	<h1> EDUCATION </h1>
+	        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
+	            <ul class="timeline">
+	                <li class="timeline-item">
+	                    <div class="timeline-info">
+	                        <span>March 2018 ~</span>
+	                    </div>
+	                    <div class="timeline-marker"></div>
+	                    <div class="timeline-content">
+	                        <h3 class="timeline-title">Seoul National University, GSCST, User Experience Lab</h3>
+	                        <p>서울대학교 융합과학기술대학원 디지털정보융합전공 사용자경험연구실</p>
+	                    </div>
+	                </li>
+	                <li class="timeline-item">
+	                    <div class="timeline-info">
+	                        <span>March 2012 ~ Februrary 2018</span>
+	                    </div>
+	                    <div class="timeline-marker"></div>
+	                    <div class="timeline-content">
+	                        <h3 class="timeline-title">Hanyang University, College of Engineering, Information Systems Major</h3>
+	                        <p>한양대학교 공과대학 정보시스템학과</p>
+	                    </div>
+	                </li>
+	                <li class="timeline-item">
+	                    <div class="timeline-info">
+	                        <span>August 2016 ~ Februrary 2017</span>
+	                    </div>
+	                    <div class="timeline-marker"></div>
+	                    <div class="timeline-content">
+	                        <h3 class="timeline-title">University of Applied Sciences Darmstadt, Informatics</h3>
+	                        <p>한-EU ICI ECP(교육협력사업) 교환학생 장학 프로그램</p>
+	                    </div>
+	                </li>
+	                <li class="timeline-item">
+	                    <div class="timeline-info">
+	                        <span>March 2007 ~ Februrary 2010</span>
+	                    </div>
+	                    <div class="timeline-marker"></div>
+	                    <div class="timeline-content">
+	                        <h3 class="timeline-title">Daejeon Foreign Language High School, English Major</h3>
+	                        <p>대전외국어고등학교 영어과</p>
+	                    </div>
+	                </li>
+	            </ul>
+	        </div>
+	    </div>
+	    <div class="row example-basic">
+	        <h1>WORK EXPERIENCE</h1>
+		    <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
+		        <ul class="timeline">
+		            <li class="timeline-item">
+		                <div class="timeline-info">
+		                    <span>March 2019 ~ July 2019</span>
+		                </div>
+		                <div class="timeline-marker"></div>
+		                <div class="timeline-content">
+		                    <h3 class="timeline-title">Graduate Research Assistant</h3>
+		                    <p>Seoul National University, College of Liberal Studies, Creative Fusion Project
+		                    <br>서울대학교 자유전공학부 창의융합프로젝트</p>
+		                </div>
+		            </li>
+		            <li class="timeline-item">
+		                <div class="timeline-info">
+		                    <span>June 2016 ~ September 2016</span>
+		                </div>
+		                <div class="timeline-marker"></div>
+		                <div class="timeline-content">
+		                    <h3 class="timeline-title">Internship</h3>
+		                    <p>Seoul City Hall Information Protection Team
+		                    	<br>서울시청 정보통신보안담당관 정보보안팀</p>
+		                </div>
+		            </li>
+		        </ul>
+		    </div>
+		</div>
+		<div class="row example-basic">
+	        <h1>AWARDS and HONORS</h1>
+		    <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
+		        <ul class="timeline">
+		        	<li class="timeline-item">
+		                <div class="timeline-info">
+		                    <span>2020</span>
+		                </div>
+		                <div class="timeline-marker"></div>
+		                <div class="timeline-content">
+		                    <h3 class="timeline-title">Graduation Outstanding Thesis Award</h3>
+		                    <p>졸업 우수 논문상</p>
+		                </div>
+		            </li>
+		            <li class="timeline-item">
+		                <div class="timeline-info">
+		                    <span>2012 ~ 2017</span>
+		                </div>
+		                <div class="timeline-marker"></div>
+		                <div class="timeline-content">
+		                    <h3 class="timeline-title">Hanyang Science and Technology Scholarship</h3>
+		                    <p>한양 과학 기술 장학금</p>
+		                </div>
+		            </li>
+		            <li class="timeline-item">
+		                <div class="timeline-info">
+		                    <span>2016</span>
+		                </div>
+		                <div class="timeline-marker"></div>
+		                <div class="timeline-content">
+		                    <h3 class="timeline-title">EU ICI ECP Scholarship</h3>
+		                </div>
+		            </li>
+		        </ul>
+		    </div>
+		</div>  	
+	</div>
 </div>
 </body>
 </html>
