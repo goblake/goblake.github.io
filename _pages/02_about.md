@@ -273,7 +273,7 @@ I have studied for a Master's degree in **the Graduate School of Convergence Sci
 	            <ul class="timeline">
 	                <li class="timeline-item">
 	                    <div class="timeline-info">
-	                        <span>March 2018 ~</span>
+	                        <span>March 2018 ~ August 2020</span>
 	                    </div>
 	                    <div class="timeline-marker"></div>
 	                    <div class="timeline-content">
