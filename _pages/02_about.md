@@ -52,7 +52,7 @@ I have studied for a Master's degree in **the Graduate School of Convergence Sci
 	.container-fluid .row {
 	  padding: 0 0 4em 0; }
 	  .container-fluid .row:nth-child(even) {
-	    background: #F1F4F5; }
+	    background: #FFF; }
 
 	.example-title {
 	  text-align: center;
