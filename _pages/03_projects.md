@@ -4,7 +4,7 @@ permalink: /projects/
 title: "PROJECTS"
 author_profile: false
 header:
-  image: /assets/images/unsplash-image-16.png
+  image: /assets/images/unsplash-image-16.jpeg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 <html>
