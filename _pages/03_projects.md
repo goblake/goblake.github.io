@@ -297,7 +297,8 @@ header:
 	                    <div class="timeline-content">
 	                        <h3 class="timeline-title"> Culture Concierge & Preference Collection<br>AI 챗봇 서비스 디자인</h3>
 	                        <p>- Project with <b>Korea Creative Content Agency, KOCCA</b>
-	                        <br>- My Role : planning and conducting user research (desk research, semi-structured interviews, tool based survey)
+	                        <br>- My Role : planning and conducting user research 
+	                        <br>(desk research, semi-structured interviews, tool based survey)</p>
 	                    </div>
 	                </li>
 	                <li class="timeline-item">
