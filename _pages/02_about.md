@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /about/
-title: "ABOUT"
+title: "🧩ABOUT"
 author_profile: false
 header:
   image: /assets/images/unsplash-image-3.jpg

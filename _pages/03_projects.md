@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
-title: "PROJECTS"
+title: "📊PROJECTS"
 author_profile: false
 header:
   image: /assets/images/unsplash-image-16.jpeg
@@ -298,7 +298,7 @@ header:
                         <h3 class="timeline-title"> Culture Concierge & Preference Collection<br>AI 챗봇 서비스 디자인</h3>
                         <p>- Project with <b>Korea Creative Content Agency, KOCCA</b>
                         <br>- My Role : planning and conducting user research (desk research, semi-structured interviews, tool based survey)
-                        <br>Developing a smart speaker service that curates events in various domains such as, but not limited to, classical music, musicals, plays, and concerts. Investigating the potential use of user preference data on various everyday objects to supplement the recommendation of cultural events.</p>
+                        <!--<br>Developing a smart speaker service that curates events in various domains such as, but not limited to, classical music, musicals, plays, and concerts. Investigating the potential use of user preference data on various everyday objects to supplement the recommendation of cultural events.</p>-->
                         <!-- 문화콘텐츠진흥원이 공모한 프로젝트로, 서울대학교 사용자경험연구실이 주관하며 공동연구기관 머니브레인과 위탁연구기관 크레디아와 함께 진행중인 3개년도 프로젝트. 기존 공연 관람은 탐색이 어렵고 복잡한 카탈로그 브라우징이었다. 그러나 이제는 CAs를 통해 정보의 통합/추천/개인화가 가능해졌다. 이를 구현하기 위해 문화 도메인 특성을 고려한 시나리오 도출 및 엔진 개발을 하고자 한다.</p> -->
                     </div>
                 </li>
@@ -317,7 +317,7 @@ header:
             </ul>
         </div>
         <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
-        	<h1>PUBLICATION</h1>
+        	<h1>📒 PUBLICATION</h1>
             <ul class="timeline">
                 <li class="timeline-item">
                     <div class="timeline-info">
