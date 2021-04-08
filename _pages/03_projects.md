@@ -271,7 +271,7 @@ header:
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title"> Designing Interactive Contents on Smart Speaker<br>공공 문화/예술/관광 콘텐츠 서비스를 위한 챗봇 프레임워크 개발</h3>
+                        <h3 class="timeline-title"> Designing Interactive Contents on Smart Speaker<br>인터랙티브 콘텐츠 서비스 기획 및 제작</h3>
                         <p>- Project with <b>Korea Creative Content Agency, KOCCA</b>
                         <br>- My Role : Main Developer, Research Assistant
                         <br>Developing a smart speaker service that curates classical music, named Classic Mate(CM). Each day one pair of classical musics are provided with simple explanations based on user's response. </p>
@@ -283,7 +283,7 @@ header:
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title"> Next step for Conversational Agents <br> Bixby, Next step에 대한 고민 :UX관점에서</h3>
+                        <h3 class="timeline-title"> Next step for Conversational Agents <br>Bixby 커뮤니케이션 UX</h3>
                         <p>- Project with <b>Samsung Electronics</b>
                         <br>- My Role : Research Assistant</p>
                         <!-- <p>머신 러닝의 고도화와 스마트 스피커의 보급으로 IPA는 사람들의 일상 곳곳에서 나타나고 있다. 그러나, 단순히 흥미롭고 신기한 이유로 IPA를 사용하는 단계를 지나 지속적으로 이를 사용하기에는 아직 기술이 뒷받침해주지 못하는 실정이다.이에 기업에서는 유명 연예인의 목소리를 통해 사용자에게 친근감을 준다거나 귀여운 외형으로 호감을 불러일으키는 등의 ‘인간적인 호감을 얻을 수 있는’ 접근을 취하고 있다. 본 프로젝트는 현재의 접근 방향의 한계를 지적하고, 비기술적인 측면에서 사용자의 경험을 극대화하여 IPA가 발전할 수 있는 방향을 모색한다.</p> -->
@@ -295,7 +295,7 @@ header:
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title"> Culture Concierge & Preference Collection<br>공공 문화/예술/관광 콘텐츠 서비스를 위한 챗봇 프레임워크 개발</h3>
+                        <h3 class="timeline-title"> Culture Concierge & Preference Collection<br>AI 챗봇 서비스 디자인</h3>
                         <p>- Project with <b>Korea Creative Content Agency, KOCCA</b>
                         <br>- My Role : Research Assistant
                         <br>Developing a smart speaker service that curates events in various domains such as, but not limited to, classical music, musicals, plays, and concerts. Investigating the potential use of user preference data on various everyday objects to supplement the recommendation of cultural events.</p>
@@ -308,7 +308,7 @@ header:
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title"> Designing Home Entertainment AI Service Concept <br>공간 특화 Home Entertainment AI 컨셉 발굴</h3>
+                        <h3 class="timeline-title"> Designing Home Entertainment AI Service Concept <br>AI 서비스 컨셉 제안</h3>
                         <p>- Project with <b>LG Electronics</b>
                         <br>- My Role : Research Assistant</p>
                         <!-- <p>Home Entertainment(HE) 기기 확산에 따른 새로운 카테고리의 서비스 및 폼팩터 발굴이 필요하다. 주거 공간마다 상이한 콘텐츠를 소비하는 사용자 행태에 맞게 공간 특화 서비스 제작이 필요한 것이다. 인공지능 서비스의 지향점은 Data Intelligence를 통한 예측력의 구축하는 것이다.</p> -->
@@ -325,7 +325,7 @@ header:
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">A Study on Managing No-response situations in Content driven Voice User Interface</h3>
+                        <h3 class="timeline-title">A Study on Managing No-response situations in Content driven Voice User Interface <a href="https://s-space.snu.ac.kr/handle/10371/170327">LINK</a></h3>
                         <p><b>Byunghi Ko</b></p>
                         <p><i>Master's Degree Thesis, Seoul National University</i></p>
                     </div>
@@ -336,7 +336,7 @@ header:
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">How do users react to interactive contents on smart speaker?</h3>
+                        <h3 class="timeline-title">How do users react to interactive contents on smart speaker? <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10402797">LINK</a></h3>
                         <p><b>Byunghi Ko</b>, Jeongbok Lee, Soomin Lee, Joongseek Lee</p>
                         <p><i>In Proc. of the HCIK ’20: Human Computer Interaction Korea. 2020.</i></p>
                     </div>
