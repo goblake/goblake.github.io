@@ -325,7 +325,7 @@ header:
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">A Study on Managing No-response situations in Content driven Voice User Interface <a href="https://s-space.snu.ac.kr/handle/10371/170327">LINK</a></h3>
+                        <h3 class="timeline-title">A Study on Managing No-response situations in Content driven Voice User Interface <a href="https://s-space.snu.ac.kr/handle/10371/170327">[LINK]</a></h3>
                         <p><b>Byunghi Ko</b></p>
                         <p><i>Master's Degree Thesis, Seoul National University</i></p>
                     </div>
@@ -336,7 +336,7 @@ header:
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">How do users react to interactive contents on smart speaker? <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10402797">LINK</a></h3>
+                        <h3 class="timeline-title">How do users react to interactive contents on smart speaker? <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10402797">[LINK]</a></h3>
                         <p><b>Byunghi Ko</b>, Jeongbok Lee, Soomin Lee, Joongseek Lee</p>
                         <p><i>In Proc. of the HCIK ’20: Human Computer Interaction Korea. 2020.</i></p>
                     </div>
