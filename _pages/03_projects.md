@@ -263,82 +263,82 @@ header:
 <div class="container-fluid">
     <div class="row example-basic">
     	<div class="row example-basic">
-        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
-            <ul class="timeline">
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>Jenuary 2019 ~ December 2019</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title"> Designing Interactive Contents on Smart Speaker<br>인터랙티브 콘텐츠 서비스 기획 및 제작</h3>
-                        <p>- Project with <b>Korea Creative Content Agency, KOCCA</b>
-                        <br>- My Role : service planning and development, user interaction data analysis and improvement
-                        <br>Developing a smart speaker service that curates classical music, named <a href="https://assistant.google.com/services/a/uid/00000086a4223123?hl=ko">Classic Mate(CM)</a>. Each day one pair of classical musics are provided with simple explanations based on user's response. </p>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>September 2018 ~ December 2018</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title"> Next step for Conversational Agents <br>Bixby 커뮤니케이션 UX</h3>
-                        <p>- Project with <b>Samsung Electronics</b>
-                        <br>- My Role : latest technology and trend research, developing conversational agent prototypes</p>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>May 2018 ~ September 2018</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title"> Culture Concierge & Preference Collection<br>AI 챗봇 서비스 디자인</h3>
-                        <p>- Project with <b>Korea Creative Content Agency, KOCCA</b>
-                        <br>- My Role : planning and conducting user research (desk research, semi-structured interviews, tool based survey)
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>March 2018 ~ May 2018</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title"> Designing Home Entertainment AI Service Concept <br>AI 서비스 컨셉 제안</h3>
-                        <p>- Project with <b>LG Electronics</b>
-                        <br>- My Role : user needs and trend research, operation of an ideation workshop, conceptualization and suggestion</p>
-                    </div>
-                </li>
-            </ul>
-        </div>
-        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
-        	<h1>📒PUBLICATION</h1>
-            <ul class="timeline">
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>August 2020</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">A Study on Managing No-response situations in Content driven Voice User Interface <a href="https://s-space.snu.ac.kr/handle/10371/170327">[LINK]</a></h3>
-                        <p><b>Byunghi Ko</b></p>
-                        <p><i>Master's Degree Thesis, Seoul National University</i></p>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>February 2020</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">How do users react to interactive contents on smart speaker? <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10402797">[LINK]</a></h3>
-                        <p><b>Byunghi Ko</b>, Jeongbok Lee, Soomin Lee, Joongseek Lee</p>
-                        <p><i>In Proc. of the HCIK ’20: Human Computer Interaction Korea. 2020.</i></p>
-                    </div>
-                </li>
-            </ul>
-        </div>
+	        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
+	            <ul class="timeline">
+	                <li class="timeline-item">
+	                    <div class="timeline-info">
+	                        <span>Jenuary 2019 ~ December 2019</span>
+	                    </div>
+	                    <div class="timeline-marker"></div>
+	                    <div class="timeline-content">
+	                        <h3 class="timeline-title"> Designing Interactive Contents on Smart Speaker<br>인터랙티브 콘텐츠 서비스 기획 및 제작</h3>
+	                        <p>- Project with <b>Korea Creative Content Agency, KOCCA</b>
+	                        <br>- My Role : service planning and development, user interaction data analysis and improvement
+	                        <br>Developing a smart speaker service that curates classical music, named <a href="https://assistant.google.com/services/a/uid/00000086a4223123?hl=ko">Classic Mate(CM)</a>. Each day one pair of classical musics are provided with simple explanations based on user's response. </p>
+	                    </div>
+	                </li>
+	                <li class="timeline-item">
+	                    <div class="timeline-info">
+	                        <span>September 2018 ~ December 2018</span>
+	                    </div>
+	                    <div class="timeline-marker"></div>
+	                    <div class="timeline-content">
+	                        <h3 class="timeline-title"> Next step for Conversational Agents <br>Bixby 커뮤니케이션 UX</h3>
+	                        <p>- Project with <b>Samsung Electronics</b>
+	                        <br>- My Role : latest technology and trend research, developing conversational agent prototypes</p>
+	                    </div>
+	                </li>
+	                <li class="timeline-item">
+	                    <div class="timeline-info">
+	                        <span>May 2018 ~ September 2018</span>
+	                    </div>
+	                    <div class="timeline-marker"></div>
+	                    <div class="timeline-content">
+	                        <h3 class="timeline-title"> Culture Concierge & Preference Collection<br>AI 챗봇 서비스 디자인</h3>
+	                        <p>- Project with <b>Korea Creative Content Agency, KOCCA</b>
+	                        <br>- My Role : planning and conducting user research (desk research, semi-structured interviews, tool based survey)
+	                    </div>
+	                </li>
+	                <li class="timeline-item">
+	                    <div class="timeline-info">
+	                        <span>March 2018 ~ May 2018</span>
+	                    </div>
+	                    <div class="timeline-marker"></div>
+	                    <div class="timeline-content">
+	                        <h3 class="timeline-title"> Designing Home Entertainment AI Service Concept <br>AI 서비스 컨셉 제안</h3>
+	                        <p>- Project with <b>LG Electronics</b>
+	                        <br>- My Role : user needs and trend research, operation of an ideation workshop, conceptualization and suggestion</p>
+	                    </div>
+	                </li>
+	            </ul>
+	        </div>
+	        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
+	        	<h1>📒PUBLICATION</h1>
+	            <ul class="timeline">
+	                <li class="timeline-item">
+	                    <div class="timeline-info">
+	                        <span>August 2020</span>
+	                    </div>
+	                    <div class="timeline-marker"></div>
+	                    <div class="timeline-content">
+	                        <h3 class="timeline-title">A Study on Managing No-response situations in Content driven Voice User Interface <a href="https://s-space.snu.ac.kr/handle/10371/170327">[LINK]</a></h3>
+	                        <p><b>Byunghi Ko</b></p>
+	                        <p><i>Master's Degree Thesis, Seoul National University</i></p>
+	                    </div>
+	                </li>
+	                <li class="timeline-item">
+	                    <div class="timeline-info">
+	                        <span>February 2020</span>
+	                    </div>
+	                    <div class="timeline-marker"></div>
+	                    <div class="timeline-content">
+	                        <h3 class="timeline-title">How do users react to interactive contents on smart speaker? <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10402797">[LINK]</a></h3>
+	                        <p><b>Byunghi Ko</b>, Jeongbok Lee, Soomin Lee, Joongseek Lee</p>
+	                        <p><i>In Proc. of the HCIK ’20: Human Computer Interaction Korea. 2020.</i></p>
+	                    </div>
+	                </li>
+	            </ul>
+	        </div>
         </div>
     </div>
  </div>
