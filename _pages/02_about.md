@@ -277,7 +277,7 @@ I have studied for a Master's degree in **the Graduate School of Convergence Sci
 	                    </div>
 	                    <div class="timeline-marker"></div>
 	                    <div class="timeline-content">
-	                        <h3 class="timeline-title">Seoul National University, GSCST, User Experience Lab</h3>
+	                        <h3 class="timeline-title">Seoul National University, User Experience Lab</h3>
 	                        <p>서울대학교 융합과학기술대학원 디지털정보융합전공 사용자경험연구실</p>
 	                    </div>
 	                </li>
@@ -297,8 +297,8 @@ I have studied for a Master's degree in **the Graduate School of Convergence Sci
 	                    </div>
 	                    <div class="timeline-marker"></div>
 	                    <div class="timeline-content">
-	                        <h3 class="timeline-title">University of Applied Sciences Darmstadt, Informatics</h3>
-	                        <p>한-EU ICI ECP(교육협력사업) 교환학생 장학 프로그램</p>
+	                        <h3 class="timeline-title">Darmstadt University of Applied Sciences, Informatics</h3>
+	                        <p>한-EU ICI ECP 교환학생 장학 프로그램</p>
 	                    </div>
 	                </li>
 	                <li class="timeline-item">
@@ -326,7 +326,7 @@ I have studied for a Master's degree in **the Graduate School of Convergence Sci
 		                <div class="timeline-content">
 		                    <h3 class="timeline-title">Graduate Research Assistant</h3>
 		                    <p>Seoul National University, College of Liberal Studies, Creative Fusion Project
-		                    <br>서울대학교 자유전공학부 창의융합프로젝트</p>
+		                    <br>서울대학교 자유전공학부 창의융합프로젝트 수업조교</p>
 		                </div>
 		            </li>
 		            <li class="timeline-item">
@@ -337,7 +337,7 @@ I have studied for a Master's degree in **the Graduate School of Convergence Sci
 		                <div class="timeline-content">
 		                    <h3 class="timeline-title">Internship</h3>
 		                    <p>Seoul City Hall Information Protection Team
-		                    	<br>서울시청 정보통신보안담당관 정보보안팀</p>
+		                    	<br>서울시청 정보보안팀 인턴</p>
 		                </div>
 		            </li>
 		        </ul>
@@ -364,7 +364,7 @@ I have studied for a Master's degree in **the Graduate School of Convergence Sci
 		                <div class="timeline-marker"></div>
 		                <div class="timeline-content">
 		                    <h3 class="timeline-title">Hanyang Science and Technology Scholarship</h3>
-		                    <p>한양 과학 기술 장학금</p>
+		                    <p>한양 과학 기술 장학금(100%)</p>
 		                </div>
 		            </li>
 		            <li class="timeline-item">
@@ -374,6 +374,7 @@ I have studied for a Master's degree in **the Graduate School of Convergence Sci
 		                <div class="timeline-marker"></div>
 		                <div class="timeline-content">
 		                    <h3 class="timeline-title">EU ICI ECP Scholarship</h3>
+		                    <p>교환 학생 프로그램 장학금</p>
 		                </div>
 		            </li>
 		        </ul>
