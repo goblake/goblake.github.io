@@ -6,8 +6,8 @@ main:
     url: /about/
   - title: "PROJECTS"
     url: /projects/
-  - title: "INTERESTS"
-    url: /interests/
+  #- title: "INTERESTS"
+  #  url: /interests/
   #- title: "About"
   #  url: https://mmistakes.github.io/minimal-mistakes/about/
   #- title: "Sample Posts"
@@ -16,5 +16,5 @@ main:
   #  url: /collection-archive/
   - title: "POSTS"
     url: /categories/ #년도에 따른 페이지에서 카테고리에 따른 페이지로 변경함
-  - title: "SITEMAP"
-    url: /sitemap/
+  #- title: "SITEMAP"
+  #  url: /sitemap/
