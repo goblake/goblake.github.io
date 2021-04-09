@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /about/
-title: "🧩ABOUT"
+title: "about"
 author_profile: false
 header:
   image: /assets/images/unsplash-image-3.jpg
@@ -268,7 +268,7 @@ I have studied for a Master's degree in **the Graduate School of Convergence Sci
 <div class="col">
 	<div class="container-fluid">
 	    <div class="row example-basic">
-	    	<h1> 👨‍🎓 EDUCATION </h1>
+	    	<h1>education</h1>
 	        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
 	            <ul class="timeline">
 	                <li class="timeline-item">
@@ -315,7 +315,7 @@ I have studied for a Master's degree in **the Graduate School of Convergence Sci
 	        </div>
 	    </div>
 	    <div class="row example-basic">
-	        <h1> 🧑‍💻 WORK EXPERIENCE</h1>
+	        <h1>work experience</h1>
 		    <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
 		        <ul class="timeline">
 		            <li class="timeline-item">
@@ -344,7 +344,7 @@ I have studied for a Master's degree in **the Graduate School of Convergence Sci
 		    </div>
 		</div>
 		<div class="row example-basic">
-	        <h1> 📚 AWARDS and HONORS</h1>
+	        <h1>awards and honors</h1>
 		    <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
 		        <ul class="timeline">
 		        	<li class="timeline-item">

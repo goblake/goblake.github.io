@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /projects/
-title: "📊PROJECTS"
+title: "projects"
 author_profile: false
 header:
   image: /assets/images/unsplash-image-16.jpeg
@@ -315,7 +315,7 @@ header:
 	            </ul>
 	        </div>
 	        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
-	        	<h1>📒PUBLICATION</h1>
+	        	<h1>publication</h1>
 	            <ul class="timeline">
 	                <li class="timeline-item">
 	                    <div class="timeline-info">

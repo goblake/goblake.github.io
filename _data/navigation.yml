@@ -2,9 +2,9 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "🧩ABOUT"
+  - title: "about"
     url: /about/
-  - title: "📊PROJECTS"
+  - title: "projects"
     url: /projects/
   #- title: "INTERESTS"
   #  url: /interests/
@@ -14,7 +14,7 @@ main:
   #  url: /year-archive/
   #- title: "Sample Collections"
   #  url: /collection-archive/
-  - title: "📄POSTS"
+  - title: "posts"
     url: /categories/ #년도에 따른 페이지에서 카테고리에 따른 페이지로 변경함
   #- title: "SITEMAP"
   #  url: /sitemap/
