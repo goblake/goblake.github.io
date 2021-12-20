@@ -8,7 +8,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-I have studied for a Master's degree in **the Graduate School of Convergence Science and Technology** [(GSCST)](http://convergence.snu.ac.kr/main/) from **Seoul National University** [(SNU)](http://snu.ac.kr/index.html). My research interests lie in Voice User Interface(VUI) and interaction design. Currently, I am focusing on user experience with interactive contents on smart speakers. 
+I have studied for a Master's degree in **the Graduate School of Convergence Science and Technology** [(GSCST)](http://convergence.snu.ac.kr/main/) from **Seoul National University** [(SNU)](http://snu.ac.kr/index.html). Currently, I am working as a research engineer at **Hyundai Motors**[(현대자동차)](https://www.hyundai.com/kr/en/main), directing and designing infotainment system for vehicles.
 
 
 <html>
@@ -268,6 +268,46 @@ I have studied for a Master's degree in **the Graduate School of Convergence Sci
 <div class="col">
 	<div class="container-fluid">
 	    <div class="row example-basic">
+	        <h1>work experience</h1>
+		    <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
+		        <ul class="timeline">
+		        	<li class="timeline-item">
+		                <div class="timeline-info">
+		                    <span>July 2021 ~ </span>
+		                </div>
+		                <div class="timeline-marker"></div>
+		                <div class="timeline-content">
+		                    <h3 class="timeline-title">Research Engineer</h3>
+		                    <p>Hyundai Motors Company, Infotainment Center
+		                    <br>현대자동차 인포테인먼트센터 연구원</p>
+		                </div>
+		            </li>
+		            <li class="timeline-item">
+		                <div class="timeline-info">
+		                    <span>March 2019 ~ July 2019</span>
+		                </div>
+		                <div class="timeline-marker"></div>
+		                <div class="timeline-content">
+		                    <h3 class="timeline-title">Graduate Research Assistant</h3>
+		                    <p>Seoul National University, Creative Fusion Project
+		                    <br>서울대학교 자유전공학부 창의융합프로젝트 수업조교</p>
+		                </div>
+		            </li>
+		            <li class="timeline-item">
+		                <div class="timeline-info">
+		                    <span>June 2016 ~ September 2016</span>
+		                </div>
+		                <div class="timeline-marker"></div>
+		                <div class="timeline-content">
+		                    <h3 class="timeline-title">Internship</h3>
+		                    <p>Seoul City Hall Information Protection Team
+		                    	<br>서울시청 정보보안팀 인턴</p>
+		                </div>
+		            </li>
+		        </ul>
+		    </div>
+		</div>
+	    <div class="row example-basic">
 	    	<h1>education</h1>
 	        <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
 	            <ul class="timeline">
@@ -314,35 +354,6 @@ I have studied for a Master's degree in **the Graduate School of Convergence Sci
 	            </ul>
 	        </div>
 	    </div>
-	    <div class="row example-basic">
-	        <h1>work experience</h1>
-		    <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
-		        <ul class="timeline">
-		            <li class="timeline-item">
-		                <div class="timeline-info">
-		                    <span>March 2019 ~ July 2019</span>
-		                </div>
-		                <div class="timeline-marker"></div>
-		                <div class="timeline-content">
-		                    <h3 class="timeline-title">Graduate Research Assistant</h3>
-		                    <p>Seoul National University, Creative Fusion Project
-		                    <br>서울대학교 자유전공학부 창의융합프로젝트 수업조교</p>
-		                </div>
-		            </li>
-		            <li class="timeline-item">
-		                <div class="timeline-info">
-		                    <span>June 2016 ~ September 2016</span>
-		                </div>
-		                <div class="timeline-marker"></div>
-		                <div class="timeline-content">
-		                    <h3 class="timeline-title">Internship</h3>
-		                    <p>Seoul City Hall Information Protection Team
-		                    	<br>서울시청 정보보안팀 인턴</p>
-		                </div>
-		            </li>
-		        </ul>
-		    </div>
-		</div>
 		<div class="row example-basic">
 	        <h1>awards and honors</h1>
 		    <div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2">
