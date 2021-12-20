@@ -8,7 +8,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 ---
 
-I have studied for a Master's degree in **the Graduate School of Convergence Science and Technology** [(GSCST)](http://convergence.snu.ac.kr/main/) from **Seoul National University** [(SNU)](http://snu.ac.kr/index.html). Currently, I am working as a research engineer at **Hyundai Motors**[(현대자동차)](https://www.hyundai.com/kr/en/main), directing and designing infotainment system for vehicles.
+I have studied for a Master's degree in **the Graduate School of Convergence Science and Technology** [(GSCST)](http://convergence.snu.ac.kr/main/) from **Seoul National University** [(SNU)](http://snu.ac.kr/index.html). Currently, I am working as a research engineer at **Hyundai Motors** [(현대자동차)](https://www.hyundai.com/kr/en/main), directing and designing infotainment system for vehicles.
 
 
 <html>
@@ -279,7 +279,7 @@ I have studied for a Master's degree in **the Graduate School of Convergence Sci
 		                <div class="timeline-content">
 		                    <h3 class="timeline-title">Research Engineer</h3>
 		                    <p>Hyundai Motors Company, Infotainment Center
-		                    <br>현대자동차 인포테인먼트센터 연구원</p>
+		                    <br>현대자동차 인포테인먼트개발센터 연구원</p>
 		                </div>
 		            </li>
 		            <li class="timeline-item">
